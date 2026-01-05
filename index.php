@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>EASY POS INDEX</h1>
+    <a href="view/admin/DashboardAdmin.php" >Admin Dashboard</a>
 </body>
 </html>
