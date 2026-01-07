@@ -14,20 +14,22 @@
     <a href="../../index.php">To Index</a>
 
 
-<table>
+<!-- <table>
 <tr>
     <th>hd1</th>
     <th>hd2</th>
     <th>hd3</th>
     <th>hd4</th>
-</tr>
-<!-- loop here -->
+</tr>   
+loop here
 <tr>
      <td>td1</td>
      <td>td2</td>
      <td>td3</td>
      <td>td4</td>
 </tr>
-</table>
+</table> -->
+
+<?php include('UsersAdmin.php');?>
 </body>
 </html>
